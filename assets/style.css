@@ -1,0 +1,76 @@
+body {
+	background-color: red;
+}
+
+h1 {
+	background-color: white;
+	width: 260px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	color: green;
+
+}
+
+.wrapperGameInstructions {
+	background-color: white;
+	font-size: 18px;
+	font-weight: bold;
+	width: 450px;
+	color: green;
+	padding-bottom: 70px;
+	margin-bottom: 10px;
+	padding-top: 10px;
+
+}
+
+.wrapperRandom {
+	background-color: white;
+	float: left;
+	padding-right: 200px;
+	padding-bottom: 80px;
+	font-size: 36px;
+	margin-bottom: 10px;
+	color: green;
+
+	}
+
+.wrapperGameUpdate {
+	background-color: white;
+	float: right;
+	width: 70px;
+	padding-top: 18px;
+	padding-bottom: 18px;
+	font-size: 16px;
+	margin-left: 10px;
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+.clearFix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.wrapperScore {
+	background-color: white;
+	padding-right: 20px;
+	width: 215px;
+	color: green;
+	
+}
+
+.wrapperYourScore {
+	background-color: white;
+	padding-bottom: 80px;
+	padding-right: 20px;
+	font-size: 36px;
+	color: green;
+ 	width: 215px;
+	}
+
+.crystalMargin {
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
